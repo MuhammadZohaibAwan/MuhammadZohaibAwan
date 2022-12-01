@@ -1,5 +1,5 @@
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Prinx.<br> Nice to meet you!</h1>
-<img src="https://raw.githubusercontent.com/MuhammadZohaibAwan/MuhammadZohaibAwan/master/banner.png" alt="Banner about Arturs Smirnovs">
+<!-- <img src="https://raw.githubusercontent.com/MuhammadZohaibAwan/MuhammadZohaibAwan/master/banner.png" alt="Banner about Arturs Smirnovs"> -->
 
 <h3>Languages I am currently playing around with:</h3>
 
