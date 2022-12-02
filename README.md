@@ -1,5 +1,5 @@
-<h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Prinx.<br> Nice to meet you!</h1>
-<!-- <img src="https://raw.githubusercontent.com/MuhammadZohaibAwan/MuhammadZohaibAwan/master/banner.png" alt="Banner about Arturs Smirnovs"> -->
+<h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Zohaib Muhammad .<br> Nice to meet you!</h1>
+<img src="https://media-exp1.licdn.com/dms/image/D4D16AQFn1i-SlvuDtw/profile-displaybackgroundimage-shrink_350_1400/0/1669533962942?e=1675296000&v=beta&t=WkrS8uyc_Vu7DD-3MXavbPsNs3sL5urwxHFrCKcmar4">
 
 <h3>Languages I am currently playing around with:</h3>
 
